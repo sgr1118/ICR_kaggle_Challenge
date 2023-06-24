@@ -65,7 +65,7 @@ Log Loss = 0.301(평균)
 
 - 각 행 데이터가 양성일 확률을 낮게 예측했음에도 양성(1)이거나, 양성일 확률을 높게 예측했음에도 음성(0)일 경우에는 패널티가 주어집니다. 아래 그래프 참고
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20190620140051/log-loss-graph.jpg)
+![Log Loss와 예측확률 그래프 예시](https://media.geeksforgeeks.org/wp-content/uploads/20190620140051/log-loss-graph.jpg)
 
 ##### Log Loss 출처 : 데이터가 뛰어노는 AI 놀이터, 캐글(가도와키 다이스케, 사카타 류지, 호사카 게이스케, 히라마쓰 유지) 102p ~ 104p
 ##### image 출처 : https://leehah0908.tistory.com/22
