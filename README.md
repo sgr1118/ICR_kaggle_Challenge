@@ -69,3 +69,8 @@ Log Loss = 0.301(평균)
 
 ##### Log Loss 출처 : 데이터가 뛰어노는 AI 놀이터, 캐글(가도와키 다이스케, 사카타 류지, 호사카 게이스케, 히라마쓰 유지) 102p ~ 104p
 ##### image 출처 : https://www.geeksforgeeks.org/ml-log-loss-and-mean-squared-error/
+
+## 사용 모델
+### TabPFN
+
+### Xgboost
